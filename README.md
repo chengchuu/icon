@@ -1,10 +1,6 @@
 # Icon
 
-There are many images used by Mazey's website.
-
-```bash
-cd /web/i.mazey.net/icon && git pull;
-```
+There are many images used by my website.
 
 ## Sizes
 
